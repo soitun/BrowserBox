@@ -78,6 +78,8 @@ fi
 # Replace domain with connectable IP in login link
 new_ll="http://${local_ip}:${port}${rest}"
 
+echo "Win 9x/XP Compatibility Client Login Link:" >&2
+
 echo "$new_ll"
 
 # Optionally save the new link
