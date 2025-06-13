@@ -1,3 +1,2 @@
-- FIXED
 - last thing: add an ack API to ensure we can get frames. We probably don't want to ack all frames, but a suitable delay we can do it. 
 
